@@ -1,1 +1,1 @@
-# wisdom-ces this application for my love cess-wisdom
+# cess-wisdom: this application for my love cess-wisdom
